@@ -1,0 +1,50 @@
+[
+	{
+		"questionSerialNumber":0,
+		"questionText":"Far-right protestors tried to storm the Parliament building in which country?",
+		"correctAnswer":"d",		
+		"choices":
+		[
+			{"answerSerialNumber":"a","answerText":"Australia"},
+			{"answerSerialNumber":"b","answerText":"Britain"},
+			{"answerSerialNumber":"c","answerText":"France"},
+			{"answerSerialNumber":"d","answerText":"Germany"}
+		]
+	},	
+	{
+		"questionSerialNumber":1,
+		"questionText":"Why did Shinzo Abe, prime minister of Japan, resign from office?",
+		"correctAnswer":"c",		
+		"choices":
+		[
+			{"answerSerialNumber":"a","answerText":"An extramarital affair"},
+			{"answerSerialNumber":"b","answerText":"Fraud"},
+			{"answerSerialNumber":"c","answerText":"Illness"},
+			{"answerSerialNumber":"d","answerText":"Protests"}
+		]
+	},
+	{
+		"questionSerialNumber":2,
+		"questionText":"What did two commercial jet pilots reported seeing in the busy airspace near Los Angeles International Airport?",
+		"correctAnswer":"b",		
+		"choices":
+		[
+			{"answerSerialNumber":"a","answerText":"An attack drone"},
+			{"answerSerialNumber":"b","answerText":"A man with a jetpack"},
+			{"answerSerialNumber":"c","answerText":"A girl attached to a kite"},
+			{"answerSerialNumber":"d","answerText":"A U.F.O."}
+		]
+	},
+	{
+		"questionSerialNumber":3,
+		"questionText":"After more than seven decades of absence, jaguars are being reintroduced into the wetlands of which country?",
+		"correctAnswer":"a",		
+		"choices":
+		[
+			{"answerSerialNumber":"a","answerText":"Argentina"},
+			{"answerSerialNumber":"b","answerText":"Belize"},
+			{"answerSerialNumber":"c","answerText":"Colombia"},
+			{"answerSerialNumber":"d","answerText":"Mexico"}
+		]
+	}
+]			
